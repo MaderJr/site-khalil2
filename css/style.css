@@ -49,3 +49,11 @@ html, body{
 .legends2{
     font-style: italic;
 }
+
+
+.navigation{
+    position:fixed;
+    top:0px;
+    width: 100%;
+    z-index: 9999;
+}
